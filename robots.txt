@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://action-almala3b-download.vercel.app/sitemap.xml
